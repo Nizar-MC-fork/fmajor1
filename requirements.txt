@@ -1,2 +1,2 @@
 PyYAML==5.4.1
-Django==3.2
+Django==3.2.18
